@@ -7,10 +7,5 @@ geopy>=2.3.0
 anthropic>=0.25.0
 requests>=2.31.0
 geopandas>=0.14.0
-streamlit
-folium
 osmnx==1.3.0
-networkx
-geopy
-scikit-learn
-streamlit-folium
+scikit-learn>=1.3.0
