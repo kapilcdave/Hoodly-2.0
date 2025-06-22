@@ -1,3 +1,4 @@
+
 import streamlit as st
 import folium
 from streamlit_folium import st_folium
@@ -328,7 +329,9 @@ if st.button("🚀 Generate AI-Enhanced Safe Route", type="primary"):
                         folium.Marker(wp_coords, tooltip=f"AI Suggested: {waypoint}", 
                                      icon=folium.Icon(color='purple', icon='star')).add_to(m)
 
-            st_folium(m, width=725, height=500)
+            from streamlit_folium import folium_static 
+            folium_static(m, width=725, height=500)
+
 
             # Enhanced Metrics Display
             st.markdown("---")
