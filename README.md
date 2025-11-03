@@ -1,5 +1,5 @@
-# Hoodly-2.0
-🥷 Hoodly: AI-Powered Safe Walking in Berkeley
+# MyRoute
+🥷 MyRoute: AI-Powered Safe Walking in Berkeley
 An intelligent route planning application that uses AI to provide safer walking routes in Berkeley, California. Powered by Anthropic's Claude AI for enhanced safety analysis and personalized recommendations.
 Features
 
@@ -9,9 +9,9 @@ Interactive Maps: Visual route planning with safety waypoints and alternative pa
 Berkeley-Specific Intelligence: Local knowledge of neighborhoods, safety patterns, and time-based considerations
 Custom Location Analysis: Get AI-powered safety insights for any Berkeley location
 
-🌐 Try Hoodly Live
+🌐 Try MyRoute Live
 
-Visit hoodly2.streamlit.app
+Visit myroute.streamlit.app
 
 Enter your Anthropic API key when prompted
 Select your start and end locations
