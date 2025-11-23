@@ -5,3 +5,4 @@ osmnx==1.9.1
 geopy
 networkx
 scikit-learn
+anthropic
